@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Laye
 - 👀 I’m interested in music, tech, sports etc
-- 🌱 I’m currently learning software development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  open source projects and I'm also available for internships and jobs.
 - 📫 How to reach me tlayefaah@gmail.com
 
 <!---
